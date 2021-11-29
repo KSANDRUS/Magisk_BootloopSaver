@@ -17,3 +17,10 @@ It's Magisk module, flash it in **Magisk** app
 Automatically detect if you got bootloop (zygote keep restart)
 
 Disable all modules and restart the system if zygote keep restarting in 50s
+
+## License
+
+```
+This module is free-license.
+You can use and modify it as your own!
+```
