@@ -4,7 +4,7 @@
 **This repo has migrated to [Magisk Alternative Repo](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver)**   
 
 ## About
-Protect your system from bootloop caused by Magisk modules.
+Protect your system from bootloop caused by Magisk modules. In case the data partition is encrypted and you cannot access `/data/adb/modules`, or you don't want to turn off **force encription** because when your phone with **force encryption** disabled is stolen, thief can copy your `/data` and your private data will be exposed!!! 
 
 ## Requirements
 - Magisk 20.4+ is installed
@@ -14,9 +14,11 @@ It's Magisk module, flash it in **Magisk** app
 
 ## Usage
 
-Automatically detect if you got bootloop (zygote keep restart)
+After flashing this module, you don't need to do anything manually. This module will do their jobs: detect if you got bootloop (zygote keeps restarting many time) or not
 
-Disable all modules and restart the system if zygote keep restarting in 50s
+If yes, disable all modules and restart the system.
+
+Without this module, there is another way to disable all modules is to boot into Safe mode and then reboot back!
 
 ## License
 
