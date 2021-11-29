@@ -1,4 +1,8 @@
 # Magisk BootloopSaver
+
+
+**This repo has migrated to [Magisk Alternative Repo](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver)**   
+
 ## About
 Protect your system from bootloop caused by Magisk modules.
 
