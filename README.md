@@ -14,11 +14,11 @@ It's Magisk module, flash it in **Magisk** app
 
 ## Usage
 
-After flashing this module, you don't need to do anything manually. This module will do their jobs: detect if you got bootloop (zygote keeps restarting many time) or not
+After flashing this module, you don't have to do anything else.  This module will do its job: detect if you have a bootloop or not (the zygote keeps rebooting over and over again)
 
-If yes, disable all modules and restart the system.
+If yes, it will disable all modules and reboot the system.
 
-Without this module, there is another way to disable all modules is to boot into Safe mode and then reboot back!
+Without this module, another way to disable all modules is to boot into Safe mode and then reboot!
 
 ## License
 
