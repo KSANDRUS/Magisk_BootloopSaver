@@ -19,10 +19,3 @@ After flashing this module, you don't have to do anything else.  This module wil
 If yes, it will disable all modules and reboot the system.
 
 Without this module, another way to disable all modules is to boot into Safe mode and then reboot!
-
-## License
-
-```
-This module is free-license.
-You can use and modify it as your own!
-```
